@@ -1,0 +1,6 @@
+G:\visual studio 2015\قائمة العمل\Float-point\Float-point\bin\Debug\Float-point.exe.config
+G:\visual studio 2015\قائمة العمل\Float-point\Float-point\bin\Debug\Float-point.exe
+G:\visual studio 2015\قائمة العمل\Float-point\Float-point\bin\Debug\Float-point.pdb
+G:\visual studio 2015\قائمة العمل\Float-point\Float-point\obj\Debug\Float-point.csprojResolveAssemblyReference.cache
+G:\visual studio 2015\قائمة العمل\Float-point\Float-point\obj\Debug\Float-point.exe
+G:\visual studio 2015\قائمة العمل\Float-point\Float-point\obj\Debug\Float-point.pdb
